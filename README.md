@@ -31,7 +31,7 @@ The primary objective is to estimate a movie's rating using attributes such as:
 
 ## 🎲 Dataset
 
-The dataset file "IMDb_Movies_India.csv" consists of thousands of movie records, each with details including:
+The dataset file `IMDb_Movies_India.csv` consists of thousands of movie records, each with details including:
 
 | Feature   | Description                                |
 |-----------|--------------------------------------------|
